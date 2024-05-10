@@ -6,3 +6,4 @@ rencana list
 -bagas
 -pati
 2.mekdil
+3.gadas
