@@ -4,3 +4,4 @@ rencana list
 -gasdah
 -gasdor
 2.mekdil
+3.struktur data dasar
