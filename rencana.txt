@@ -3,5 +3,6 @@ rencana list
 1.ngentil
 -gasdah
 -gasdor
+-asdasfasf
 2.mekdil
 3.struktur data dasar
